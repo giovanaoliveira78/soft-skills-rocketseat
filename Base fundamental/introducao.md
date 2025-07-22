@@ -1,4 +1,4 @@
-# 🧠 Soft Skills
+# 🧠 Soft skills
 - Criatividade  
 - Persuasão  
 - Colaboração  
@@ -7,7 +7,7 @@
 
 ---
 
-# 💻 Hard Skills
+# 💻 Hard skills
 - Blockchain  
 - Cloud Computing  
 - Pensamento analítico  
@@ -16,7 +16,7 @@
 
 ---
 
-# 🚀 Habilidades Essenciais para os Líderes do Futuro
+# 🚀 Habilidades essenciais para os líderes do futuro
 - Resolução de problema  
 - Pensamento crítico  
 - Criatividade  
@@ -31,9 +31,9 @@
 
 ---
 
-# 🌟 Como se Destacar no Mercado da Tecnologia
+# 🌟 Como se destacar no mercado da tecnologia
 
-## 🔍 Resolução de Problemas
+## 🔍 Resolução de problemas
 Diagnosticar bugs rapidamente e propor soluções criativas para desafios técnicos.
 
 ## 🗣 Comunicação
@@ -42,14 +42,14 @@ Apresentar ideias complexas de forma clara e escrever documentações acessívei
 ## 🔄 Adaptabilidade
 Aprender novas tecnologias e ajustar-se a mudanças de escopo com facilidade.
 
-## ⏳ Gestão de Tempo
+## ⏳ Gestão de tempo
 Priorizar tarefas de forma estratégica para manter produtividade em qualquer ambiente de trabalho.
 
-## 🤝 Trabalho em Equipe
+## 🤝 Trabalho em equipe
 Colaborar em equipes multidisciplinares, resolver conflitos e alinhar expectativas de forma ágil.
 
-## 📈 Mentalidade de Crescimento
+## 📈 Mentalidade de crescimento
 Buscar feedback constante e investir em aprendizado contínuo para se aprimorar.
 
-## 👥 Foco no Cliente
+## 👥 Foco no cliente
 Entender as necessidades do usuário final e implementar melhorias que agreguem valor ao produto.
